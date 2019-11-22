@@ -59,3 +59,8 @@ img {
 p {
     font-size: 21px;
 }
+
+.middle {
+    background-color: whitesmoke;
+    padding: 15px;
+}

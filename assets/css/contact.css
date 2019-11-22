@@ -1,0 +1,63 @@
+/* .background {
+    z-index: -1;
+} */
+
+body {
+    background-image: url('../images/photo-1574169208496-ab47e11d74c2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.main {
+    padding-left: 20%;
+    padding-right: 20%;
+    /* border: gray; */
+   
+}
+
+header {
+    position: relative;
+    height: 80px;
+}
+
+ul {
+    position: absolute;
+    right: 0;
+    top: 15px;
+    list-style: none;
+}
+
+li {
+    display: inline;
+}
+
+h1 {
+    color: white;
+    position: absolute;
+    left: 0;
+    top: -30px;
+    height: 40px;
+    padding-top: 27px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background: rgb(0, 177, 177);
+}
+
+.middle {
+    position: relative;
+    padding: 15px;
+    padding-bottom: 0px;
+    background: whitesmoke;
+}
+h2 {
+    color: lightseagreen;
+}
+
+
+/* I cannot for the life of me get the text box to get taller, and I've tried about a dozen different things *shrug* */
+.message {
+    padding-bottom: 100px;
+}
+
+
